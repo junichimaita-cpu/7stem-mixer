@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.stemmixer">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
-        android:label="7Stem Mixer"
-        android:icon="@mipmap/ic_launcher"
-        android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
+        android:label="7Stem Mixer">
         
         <activity 
             android:name=".MainActivity"
